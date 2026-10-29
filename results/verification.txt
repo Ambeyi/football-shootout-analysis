@@ -1,0 +1,2 @@
+2026-10-29: Six unit tests passed.
+Independent pandas counts verified all team appearances and wins, 645 matches, 1290 appearances and 124 first-shooter wins among 230 known cases.

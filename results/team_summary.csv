@@ -1,0 +1,223 @@
+team,appearances,wins,losses,win_rate
+South Korea,25,15,10,0.6
+Argentina,23,15,8,0.6521739130434783
+Zambia,25,14,11,0.56
+Egypt,24,14,10,0.5833333333333334
+South Africa,28,13,15,0.4642857142857143
+Thailand,22,13,9,0.5909090909090909
+Senegal,21,11,10,0.5238095238095238
+Iraq,15,11,4,0.7333333333333333
+Ivory Coast,18,10,8,0.5555555555555556
+Kenya,15,10,5,0.6666666666666666
+Indonesia,11,10,1,0.9090909090909091
+Iran,21,9,12,0.42857142857142855
+Cameroon,18,9,9,0.5
+Uruguay,17,9,8,0.5294117647058824
+Brazil,16,9,7,0.5625
+Nigeria,14,9,5,0.6428571428571429
+Botswana,13,8,5,0.6153846153846154
+Mozambique,13,8,5,0.6153846153846154
+Guinea,10,8,2,0.8
+Uganda,18,7,11,0.3888888888888889
+Mali,17,7,10,0.4117647058823529
+Zimbabwe,15,7,8,0.4666666666666667
+Algeria,14,7,7,0.5
+Italy,14,7,7,0.5
+Mexico,14,7,7,0.5
+Lesotho,13,7,6,0.5384615384615384
+Spain,13,7,6,0.5384615384615384
+Colombia,12,7,5,0.5833333333333334
+Tunisia,12,7,5,0.5833333333333334
+Croatia,11,7,4,0.6363636363636364
+Angola,10,7,3,0.7
+Martinique,9,7,2,0.7777777777777778
+Saudi Arabia,9,7,2,0.7777777777777778
+Ethiopia,8,7,1,0.875
+Paraguay,13,6,7,0.46153846153846156
+Burkina Faso,11,6,5,0.5454545454545454
+Germany,8,6,2,0.75
+Padania,6,6,0,1.0
+Ghana,13,5,8,0.38461538461538464
+Morocco,13,5,8,0.38461538461538464
+Japan,12,5,7,0.4166666666666667
+France,11,5,6,0.45454545454545453
+India,11,5,6,0.45454545454545453
+Chile,10,5,5,0.5
+Eswatini,10,5,5,0.5
+Qatar,9,5,4,0.5555555555555556
+United States,9,5,4,0.5555555555555556
+Australia,8,5,3,0.625
+Panama,6,5,1,0.8333333333333334
+Malawi,18,4,14,0.2222222222222222
+Gabon,14,4,10,0.2857142857142857
+England,12,4,8,0.3333333333333333
+Syria,11,4,7,0.36363636363636365
+China PR,10,4,6,0.4
+Kuwait,10,4,6,0.4
+Malaysia,10,4,6,0.4
+Mauritius,10,4,6,0.4
+United Arab Emirates,10,4,6,0.4
+Namibia,9,4,5,0.4444444444444444
+Tanzania,9,4,5,0.4444444444444444
+Honduras,8,4,4,0.5
+DR Congo,7,4,3,0.5714285714285714
+North Korea,7,4,3,0.5714285714285714
+Portugal,7,4,3,0.5714285714285714
+Jersey,6,4,2,0.6666666666666666
+Latvia,6,4,2,0.6666666666666666
+Réunion,6,4,2,0.6666666666666666
+Sweden,6,4,2,0.6666666666666666
+Seychelles,4,4,0,1.0
+Singapore,10,3,7,0.3
+Canada,7,3,4,0.42857142857142855
+Chad,5,3,2,0.6
+New Caledonia,5,3,2,0.6
+Gambia,4,3,1,0.75
+Guatemala,4,3,1,0.75
+Oman,4,3,1,0.75
+Poland,4,3,1,0.75
+Tajikistan,4,3,1,0.75
+Togo,4,3,1,0.75
+Ukraine,4,3,1,0.75
+Bahrain,3,3,0,1.0
+Benin,3,3,0,1.0
+Czechoslovakia,3,3,0,1.0
+Kazakhstan,3,3,0,1.0
+Netherlands,10,2,8,0.2
+Costa Rica,9,2,7,0.2222222222222222
+Madagascar,8,2,6,0.25
+Switzerland,8,2,6,0.25
+Russia,7,2,5,0.2857142857142857
+Sierra Leone,7,2,5,0.2857142857142857
+Abkhazia,6,2,4,0.3333333333333333
+Denmark,6,2,4,0.3333333333333333
+Guernsey,6,2,4,0.3333333333333333
+Bangladesh,5,2,3,0.4
+Finland,5,2,3,0.4
+Peru,5,2,3,0.4
+Rwanda,5,2,3,0.4
+Ecuador,4,2,2,0.5
+Ellan Vannin,4,2,2,0.5
+Guadeloupe,4,2,2,0.5
+Northern Cyprus,4,2,2,0.5
+Saint Kitts and Nevis,4,2,2,0.5
+Sri Lanka,4,2,2,0.5
+Suriname,4,2,2,0.5
+Trinidad and Tobago,4,2,2,0.5
+British Virgin Islands,3,2,1,0.6666666666666666
+Kárpátalja,3,2,1,0.6666666666666666
+Mayotte,3,2,1,0.6666666666666666
+Nepal,3,2,1,0.6666666666666666
+United Koreans in Japan,3,2,1,0.6666666666666666
+Vietnam Republic,3,2,1,0.6666666666666666
+Zanzibar,3,2,1,0.6666666666666666
+Antigua and Barbuda,2,2,0,1.0
+Belgium,2,2,0,1.0
+Cyprus,2,2,0,1.0
+Greenland,2,2,0,1.0
+Iceland,2,2,0,1.0
+Scotland,2,2,0,1.0
+Slovakia,2,2,0,1.0
+South Ossetia,2,2,0,1.0
+Tahiti,2,2,0,1.0
+Vietnam,2,2,0,1.0
+Western Armenia,2,2,0,1.0
+Åland Islands,2,2,0,1.0
+Iraqi Kurdistan,6,1,5,0.16666666666666666
+Equatorial Guinea,5,1,4,0.2
+Estonia,5,1,4,0.2
+Hong Kong,5,1,4,0.2
+Libya,5,1,4,0.2
+Cuba,4,1,3,0.25
+New Zealand,4,1,3,0.25
+Niger,4,1,3,0.25
+Romania,4,1,3,0.25
+Belarus,3,1,2,0.3333333333333333
+Central African Republic,3,1,2,0.3333333333333333
+Jamaica,3,1,2,0.3333333333333333
+Republic of Ireland,3,1,2,0.3333333333333333
+Serbia,3,1,2,0.3333333333333333
+Solomon Islands,3,1,2,0.3333333333333333
+Sudan,3,1,2,0.3333333333333333
+Aruba,2,1,1,0.5
+Barbados,2,1,1,0.5
+Bolivia,2,1,1,0.5
+Bosnia and Herzegovina,2,1,1,0.5
+Cape Verde,2,1,1,0.5
+Chagos Islands,2,1,1,0.5
+Corsica,2,1,1,0.5
+Czech Republic,2,1,1,0.5
+Felvidék,2,1,1,0.5
+Fiji,2,1,1,0.5
+Georgia,2,1,1,0.5
+Guyana,2,1,1,0.5
+Haiti,2,1,1,0.5
+Israel,2,1,1,0.5
+Menorca,2,1,1,0.5
+Myanmar,2,1,1,0.5
+Panjab,2,1,1,0.5
+Saint Lucia,2,1,1,0.5
+Sealand,2,1,1,0.5
+Slovenia,2,1,1,0.5
+Ynys Môn,2,1,1,0.5
+Anguilla,1,1,0,1.0
+Basque Country,1,1,0,1.0
+Bulgaria,1,1,0,1.0
+County of Nice,1,1,0,1.0
+Hungary,1,1,0,1.0
+Kabylia,1,1,0,1.0
+Northern Ireland,1,1,0,1.0
+Puerto Rico,1,1,0,1.0
+Raetia,1,1,0,1.0
+Sápmi,1,1,0,1.0
+Taiwan,1,1,0,1.0
+Turkey,1,1,0,1.0
+Western Isles,1,1,0,1.0
+Åland,1,1,0,1.0
+Burundi,4,0,4,0.0
+French Guiana,4,0,4,0.0
+Greece,3,0,3,0.0
+Jordan,3,0,3,0.0
+Uzbekistan,3,0,3,0.0
+Austria,2,0,2,0.0
+Cambodia,2,0,2,0.0
+Chameria,2,0,2,0.0
+Congo,2,0,2,0.0
+Curaçao,2,0,2,0.0
+El Salvador,2,0,2,0.0
+Guinea-Bissau,2,0,2,0.0
+Lithuania,2,0,2,0.0
+Maldives,2,0,2,0.0
+Mauritania,2,0,2,0.0
+Somalia,2,0,2,0.0
+Venezuela,2,0,2,0.0
+Yugoslavia,2,0,2,0.0
+Alderney,1,0,1,0.0
+Andorra,1,0,1,0.0
+Armenia,1,0,1,0.0
+Cascadia,1,0,1,0.0
+Djibouti,1,0,1,0.0
+Falkland Islands,1,0,1,0.0
+Gibraltar,1,0,1,0.0
+Grenada,1,0,1,0.0
+Hitra,1,0,1,0.0
+Isle of Man,1,0,1,0.0
+Lebanon,1,0,1,0.0
+Liberia,1,0,1,0.0
+Matabeleland,1,0,1,0.0
+Moldova,1,0,1,0.0
+North Macedonia,1,0,1,0.0
+Occitania,1,0,1,0.0
+Orkney,1,0,1,0.0
+Pakistan,1,0,1,0.0
+Papua New Guinea,1,0,1,0.0
+Philippines,1,0,1,0.0
+Provence,1,0,1,0.0
+Saare County,1,0,1,0.0
+Sint Maarten,1,0,1,0.0
+Székely Land,1,0,1,0.0
+Tibet,1,0,1,0.0
+Turks and Caicos Islands,1,0,1,0.0
+United States Virgin Islands,1,0,1,0.0
+Vanuatu,1,0,1,0.0
+Wales,1,0,1,0.0
